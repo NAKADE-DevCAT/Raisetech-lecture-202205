@@ -22,11 +22,14 @@ __RDS__
 
 ### 3.EC2からRDSへの接続
 
+* EC2にインストールしたMySQLクライアントからの接続を実行。  
+  接続を確認する。  
+
 mysql -h (DBホスト名) -P (ポート番号：デフォルト3306） -u (ユーザー名：admin) -p (パスワード)  
 
 
-実行結果
-'''  
+実行結果  
+  
 [mnt_main01@rtech-web01 ~]$ mysql -h rtech-db01.cczxm8xtsdti.ap-northeast-1.rds.amazonaws.com -P 3306 -u admin -p  
 Enter password:  
 Welcome to the MySQL monitor.  Commands end with ; or \g.  
@@ -42,5 +45,9 @@ owners.
 Type 'help;' or '\h' for help. Type '\c' to clear the current input statement.  
 
 mysql>  
-'''  
+  
+### 4.構成図  
+
+* VSCodeのDraw.ioプラグインにて下記構成図を作成。
+
 
