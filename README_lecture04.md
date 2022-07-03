@@ -49,8 +49,5 @@ mysql>
 ### 4.構成図  
 
 * VSCodeのDraw.ioプラグインにて下記構成図を作成。  
-[構成図](https://github.com/NAKADE-DevCAT/Raisetech-lecture-202205/blob/main/images/Lecture4_kousei.png)  
-
-
-
+__[構成図](https://github.com/NAKADE-DevCAT/Raisetech-lecture-202205/blob/main/images/Lecture4_kousei.png)__  
 
