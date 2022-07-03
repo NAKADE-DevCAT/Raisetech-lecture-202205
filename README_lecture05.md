@@ -3,29 +3,29 @@
 ---
 
 ### 1.　インフラ構成図
-*下記構成図参照  
+* 下記構成図参照  
 ![構成図](./images/lecture05_kouseizu.png "kouseizu")
 
 ### 2.　検証環境接続
 
 * 正常動作確認  
-![正常系01](./images/lecture05_kenshou_OK_01.png "kenshouseijou01")  
-![正常系02](./images/lecture05_kenshou_OK_01.png "kenshouseijou02")  
+![正常系01](./images/Lecture05_kenshou_OK_01.png "kenshouseijou01")  
+![正常系02](./images/Lecture05_kenshou_OK_01.png "kenshouseijou02")  
   
 * <font color="red">異常系動作確認</font>  
-![異常系01](./images/lecture05_kenshou_NG_01.png "kenshouijou01")  
-![異常系02](./images/lecture05_kenshou_NG_02.png "kenshouijou02")  
+![異常系01](./images/Lecture05_kenshou_NG_01.png "kenshouijou01")  
+![異常系02](./images/Lecture05_kenshou_NG_02.png "kenshouijou02")  
 
 ### 3.本番環境接続
 
 * 正常動作確認  
-![正常系01](./images/lecture05_honban_OK_01.png "honbanseijou01")  
-![正常系02](./images/lecture05_honban_OK_02.png "honbanseijou02")  
+![正常系01](./images/Lecture05_honban_OK_01.png "honbanseijou01")  
+![正常系02](./images/Lecture05_honban_OK_02.png "honbanseijou02")  
 
 * <font color="red">異常系動作確認</font>  
 **1台が停止しても問題なく接続可能**  
-![異常系01](./images/lecture05_honban_NG_01.png "honbanijou01")  
-![異常系02](./images/lecture05_honban_NG_02.png "honbanijou02")  
+![異常系01](./images/Lecture05_honban_NG_01.png "honbanijou01")  
+![異常系02](./images/Lecture05_honban_NG_02.png "honbanijou02")  
 
 ### 4.S3の扱い
 
