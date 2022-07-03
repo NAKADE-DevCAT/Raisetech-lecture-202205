@@ -10,7 +10,7 @@
 
 * 正常動作確認  
 ![正常系01](./images/Lecture05_kenshou_OK_01.png "kenshouseijou01")  
-![正常系02](./images/Lecture05_kenshou_OK_01.png "kenshouseijou02")  
+![正常系02](./images/Lecture05_kenshou_OK_02.png "kenshouseijou02")  
   
 * <font color="red">異常系動作確認</font>  
 ![異常系01](./images/Lecture05_kenshou_NG_01.png "kenshouijou01")  
